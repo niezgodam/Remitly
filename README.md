@@ -1,7 +1,7 @@
 # Remitly Internship 2024
 
-## Cone Repository
-## Iside Repository Folder
+## Clone Repository
+## Inside Repository Folder
 
 ## USAGE
 
