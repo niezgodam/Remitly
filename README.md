@@ -7,7 +7,7 @@
 
 **TO RUN TESTS**
 
-- python -m unitest test_veryfingJSON.py
+- python -m unittest test_veryfingJSON.py
 
 **TO RUN TESTS**
 
